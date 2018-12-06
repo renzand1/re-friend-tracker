@@ -295,7 +295,7 @@ export class GuiModel {
                     ]
                 },
 				{
-					"id": "friend"
+					"id": "friend",
 					"elementList": [
 						{
 							"type": "backbutton",
@@ -318,7 +318,7 @@ export class GuiModel {
 							"form": {
 								"form": "AddActivityForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-calendar",
@@ -330,7 +330,7 @@ export class GuiModel {
 							}
 						},
 					]
-				}
+				},
                 {
                     "id": "locationspage",
                     "elementList": [
@@ -373,7 +373,7 @@ export class GuiModel {
 							"form": {
 								"form": "GroupForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-weixin",
@@ -385,7 +385,7 @@ export class GuiModel {
 							}
 						},
 					]
-				}
+				},
 				{
 					"id": "activitypage",
 					"elementList": [
@@ -400,7 +400,7 @@ export class GuiModel {
 							"form": {
 								"form": "ActivityForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-calendar",
@@ -412,7 +412,7 @@ export class GuiModel {
 					]
 				},
 				{
-					"id": "activities"
+					"id": "activities",
 					"elementList": [
 						{
 							"type": "backbutton",
